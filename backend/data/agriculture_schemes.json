@@ -1,0 +1,356 @@
+[
+  {
+    "id": "pm_kisan",
+    "domain": "agriculture",
+    "name_en": "PM-KISAN Samman Nidhi",
+    "name_ta": "பிஎம்-கிசான் சம்மான் நிதி",
+    "department": "Department of Agriculture & Farmers Welfare (Central), implemented in Tamil Nadu",
+    "category": "Income Support",
+    "category_ta": "வருமான ஆதரவு",
+    "summary_en": "Direct income support to all landholding farmer families to supplement their financial needs for agricultural inputs.",
+    "summary_ta": "அனைத்து நிலம் வைத்திருக்கும் விவசாயக் குடும்பங்களுக்கும் வேளாண் இடுபொருட்களுக்கான நிதித் தேவையை ஈடுகட்ட நேரடி வருமான ஆதரவு.",
+    "benefit_en": "Rs. 6,000 per year paid in three equal installments of Rs. 2,000, transferred directly to the farmer's bank account.",
+    "benefit_ta": "ஆண்டுக்கு ரூ. 6,000, தலா ரூ. 2,000 என மூன்று தவணைகளாக விவசாயியின் வங்கிக் கணக்கில் நேரடியாக வழங்கப்படும்.",
+    "benefit_amount": 6000,
+    "eligibility_en": [
+      "Landholding farmer family with cultivable land in their name",
+      "Aadhaar-linked bank account required",
+      "Higher-income taxpayers and institutional landholders are excluded"
+    ],
+    "eligibility_ta": [
+      "தங்கள் பெயரில் சாகுபடி நிலம் வைத்திருக்கும் விவசாயக் குடும்பம்",
+      "ஆதார் இணைக்கப்பட்ட வங்கிக் கணக்கு அவசியம்",
+      "அதிக வருமான வரி செலுத்துவோர் மற்றும் நிறுவன நில உரிமையாளர்கள் விலக்கப்படுவர்"
+    ],
+    "documents_required_en": [
+      "Aadhaar Card",
+      "Land ownership records (patta / chitta)",
+      "Bank account passbook",
+      "Mobile number"
+    ],
+    "how_to_apply_en": "Register at the nearest e-Sevai centre, Agriculture Extension Centre, or online through the PM-KISAN portal with land records and Aadhaar.",
+    "how_to_apply_ta": "நில ஆவணங்கள் மற்றும் ஆதாருடன் அருகிலுள்ள இ-சேவை மையம், வேளாண் விரிவாக்க மையம் அல்லது பிஎம்-கிசான் இணையதளம் வழியாகப் பதிவு செய்யவும்.",
+    "apply_to": "Agriculture Extension Centre / e-Sevai Centre / PM-KISAN portal",
+    "disability_types": [],
+    "min_disability_percent": 0,
+    "purposes": ["income", "financial", "subsidy"],
+    "age_min": 18,
+    "age_max": 120,
+    "source_url": "https://pmkisan.gov.in/",
+    "source_name": "PM-KISAN, Government of India / TN Department of Agriculture"
+  },
+  {
+    "id": "free_power_agri",
+    "domain": "agriculture",
+    "name_en": "Free Electricity for Agricultural Pump Sets",
+    "name_ta": "வேளாண் மின்மோட்டார்களுக்கு இலவச மின்சாரம்",
+    "department": "Tamil Nadu Generation and Distribution Corporation (TANGEDCO) / Agriculture Department",
+    "category": "Subsidy",
+    "category_ta": "மானியம்",
+    "summary_en": "Free electricity supply for agricultural pump sets to reduce the irrigation cost burden on farmers.",
+    "summary_ta": "விவசாயிகளின் பாசனச் செலவைக் குறைக்க வேளாண் மின்மோட்டார்களுக்கு இலவச மின்சாரம் வழங்கப்படுகிறது.",
+    "benefit_en": "100% free electricity for registered agricultural pump set connections used for irrigation.",
+    "benefit_ta": "பாசனத்திற்குப் பயன்படும் பதிவு செய்யப்பட்ட வேளாண் மின் இணைப்புகளுக்கு 100% இலவச மின்சாரம்.",
+    "benefit_amount": 0,
+    "eligibility_en": [
+      "Farmer with an agricultural electricity service connection in Tamil Nadu",
+      "Connection must be used for agricultural / irrigation purposes"
+    ],
+    "eligibility_ta": [
+      "தமிழ்நாட்டில் வேளாண் மின் இணைப்பு உள்ள விவசாயி",
+      "இணைப்பு வேளாண் / பாசன நோக்கங்களுக்குப் பயன்படுத்தப்பட வேண்டும்"
+    ],
+    "documents_required_en": [
+      "Agricultural EB service connection number",
+      "Patta / land records",
+      "Aadhaar Card"
+    ],
+    "how_to_apply_en": "Apply for an agricultural service connection at the local TANGEDCO office; the free supply is applied automatically to eligible agricultural connections.",
+    "how_to_apply_ta": "உள்ளூர் TANGEDCO அலுவலகத்தில் வேளாண் மின் இணைப்புக்கு விண்ணப்பிக்கவும்; தகுதியான வேளாண் இணைப்புகளுக்கு இலவச வழங்கல் தானாகவே பயன்படுத்தப்படும்.",
+    "apply_to": "Local TANGEDCO / EB Office",
+    "disability_types": [],
+    "min_disability_percent": 0,
+    "purposes": ["subsidy", "irrigation", "electricity"],
+    "age_min": 18,
+    "age_max": 120,
+    "source_url": "https://www.tangedco.gov.in/",
+    "source_name": "TANGEDCO / TN Agriculture Department"
+  },
+  {
+    "id": "crop_loan_coop",
+    "domain": "agriculture",
+    "name_en": "Interest-Free Crop Loan through Cooperative Banks",
+    "name_ta": "கூட்டுறவு வங்கிகள் மூலம் வட்டியில்லா பயிர்க் கடன்",
+    "department": "Tamil Nadu Cooperation Department / Agriculture Department",
+    "category": "Credit",
+    "category_ta": "கடன்",
+    "summary_en": "Short-term crop loans to farmers through cooperative societies and banks, at zero or low interest to fund cultivation.",
+    "summary_ta": "சாகுபடிக்கு நிதியளிக்க கூட்டுறவு சங்கங்கள் மற்றும் வங்கிகள் மூலம் விவசாயிகளுக்கு பூஜ்ஜிய அல்லது குறைந்த வட்டியில் குறுகிய கால பயிர்க் கடன்.",
+    "benefit_en": "Crop loans up to Rs. 3,00,000 at 0% interest when repaid on time (interest subvention by Government). Loan amount is based on the scale of finance for the crop and land area.",
+    "benefit_ta": "சரியான நேரத்தில் திரும்பச் செலுத்தினால் ரூ. 3,00,000 வரை 0% வட்டியில் பயிர்க் கடன் (அரசின் வட்டி மானியம்). கடன் தொகை பயிர் மற்றும் நில அளவைப் பொறுத்தது.",
+    "benefit_amount": 300000,
+    "eligibility_en": [
+      "Farmer cultivating land, member of a Primary Agricultural Cooperative Credit Society",
+      "Valid land records (patta / lease) in the cultivator's name",
+      "No major outstanding default with the cooperative"
+    ],
+    "eligibility_ta": [
+      "நிலத்தைச் சாகுபடி செய்யும், ஆரம்ப வேளாண் கூட்டுறவுக் கடன் சங்க உறுப்பினரான விவசாயி",
+      "சாகுபடி செய்பவர் பெயரில் செல்லுபடியாகும் நில ஆவணங்கள் (பட்டா / குத்தகை)",
+      "கூட்டுறவில் பெரிய நிலுவைத் தவறு இருக்கக் கூடாது"
+    ],
+    "documents_required_en": [
+      "Patta / chitta land records",
+      "Aadhaar Card",
+      "Cooperative society membership",
+      "Passport-size photograph",
+      "Bank account details"
+    ],
+    "how_to_apply_en": "Apply at the local Primary Agricultural Cooperative Credit Society (PACCS) with land records and membership; loans are sanctioned based on crop and acreage.",
+    "how_to_apply_ta": "நில ஆவணங்கள் மற்றும் உறுப்பினர் சீட்டுடன் உள்ளூர் ஆரம்ப வேளாண் கூட்டுறவுக் கடன் சங்கத்தில் (PACCS) விண்ணப்பிக்கவும்; பயிர் மற்றும் ஏக்கர் அடிப்படையில் கடன் வழங்கப்படும்.",
+    "apply_to": "Primary Agricultural Cooperative Credit Society (PACCS)",
+    "disability_types": [],
+    "min_disability_percent": 0,
+    "purposes": ["loan", "credit", "financial"],
+    "age_min": 18,
+    "age_max": 120,
+    "source_url": "https://www.tn.gov.in/scheme/sector/13",
+    "source_name": "TN Cooperation Department / Agriculture Department"
+  },
+  {
+    "id": "pmfby_crop_insurance",
+    "domain": "agriculture",
+    "name_en": "Pradhan Mantri Fasal Bima Yojana (Crop Insurance)",
+    "name_ta": "பிரதம மந்திரி பயிர் காப்பீட்டுத் திட்டம் (PMFBY)",
+    "department": "Department of Agriculture & Farmers Welfare, implemented in Tamil Nadu",
+    "category": "Insurance",
+    "category_ta": "காப்பீடு",
+    "summary_en": "Crop insurance that compensates farmers for crop loss due to natural calamities, pests, and adverse weather.",
+    "summary_ta": "இயற்கைப் பேரிடர்கள், பூச்சிகள் மற்றும் பாதகமான வானிலையால் ஏற்படும் பயிர் இழப்புக்கு விவசாயிகளுக்கு இழப்பீடு வழங்கும் பயிர் காப்பீடு.",
+    "benefit_en": "Insurance payout for notified crops on crop failure. Farmers pay a low premium — 2% for Kharif, 1.5% for Rabi food/oilseed crops, and 5% for commercial/horticultural crops — and the rest is subsidised by Government.",
+    "benefit_ta": "அறிவிக்கப்பட்ட பயிர்களுக்குப் பயிர் இழப்பின்போது காப்பீட்டுத் தொகை. விவசாயிகள் குறைந்த பிரீமியம் செலுத்துவர் — கரீப் 2%, ரபி உணவு/எண்ணெய்வித்துப் பயிர்கள் 1.5%, வணிக/தோட்டக்கலைப் பயிர்கள் 5% — மீதியை அரசு மானியமாக வழங்கும்.",
+    "benefit_amount": 0,
+    "eligibility_en": [
+      "Farmer growing a notified crop in a notified area",
+      "Both loanee and non-loanee farmers can enrol",
+      "Enrolment within the cut-off date for the season"
+    ],
+    "eligibility_ta": [
+      "அறிவிக்கப்பட்ட பகுதியில் அறிவிக்கப்பட்ட பயிரைப் பயிரிடும் விவசாயி",
+      "கடன் பெற்ற மற்றும் கடன் பெறாத விவசாயிகள் இருவரும் சேரலாம்",
+      "பருவத்திற்கான இறுதித் தேதிக்குள் பதிவு"
+    ],
+    "documents_required_en": [
+      "Aadhaar Card",
+      "Land records (patta / chitta)",
+      "Sowing certificate / crop declaration",
+      "Bank account details"
+    ],
+    "how_to_apply_en": "Enrol through your bank (for loanee farmers), Common Service Centre, the PMFBY portal, or the local Agriculture Office before the seasonal cut-off date.",
+    "how_to_apply_ta": "பருவ இறுதித் தேதிக்கு முன் உங்கள் வங்கி (கடன் பெற்றோர்), பொது சேவை மையம், PMFBY இணையதளம் அல்லது உள்ளூர் வேளாண் அலுவலகம் வழியாகப் பதிவு செய்யவும்.",
+    "apply_to": "Bank / Common Service Centre / Agriculture Office",
+    "disability_types": [],
+    "min_disability_percent": 0,
+    "purposes": ["insurance", "risk", "financial"],
+    "age_min": 18,
+    "age_max": 120,
+    "source_url": "https://pmfby.gov.in/",
+    "source_name": "PMFBY, Government of India / TN Agriculture Department"
+  },
+  {
+    "id": "drip_irrigation_subsidy",
+    "domain": "agriculture",
+    "name_en": "Micro Irrigation (Drip & Sprinkler) Subsidy",
+    "name_ta": "நுண்ணீர்ப் பாசனம் (சொட்டு & தெளிப்பு) மானியம்",
+    "department": "Tamil Nadu Horticulture Department / PMKSY - Per Drop More Crop",
+    "category": "Irrigation",
+    "category_ta": "பாசனம்",
+    "summary_en": "Subsidy for installing drip and sprinkler irrigation systems to save water and improve crop yield.",
+    "summary_ta": "நீரைச் சேமித்து பயிர் விளைச்சலை மேம்படுத்த சொட்டு மற்றும் தெளிப்பு பாசன அமைப்புகளை நிறுவ மானியம்.",
+    "benefit_en": "Up to 100% subsidy for small and marginal farmers and up to 75% for other farmers on the cost of drip / sprinkler systems under the micro irrigation scheme.",
+    "benefit_ta": "நுண்ணீர்ப் பாசனத் திட்டத்தின் கீழ் சிறு மற்றும் குறு விவசாயிகளுக்கு 100% வரை, மற்ற விவசாயிகளுக்கு 75% வரை சொட்டு / தெளிப்பு அமைப்புகளின் செலவுக்கு மானியம்.",
+    "benefit_amount": 0,
+    "eligibility_en": [
+      "Farmer owning or cultivating agricultural / horticultural land in Tamil Nadu",
+      "Land with assured water source",
+      "Subsidy rate depends on the farmer category (small / marginal / others)"
+    ],
+    "eligibility_ta": [
+      "தமிழ்நாட்டில் வேளாண் / தோட்டக்கலை நிலத்தை வைத்திருக்கும் அல்லது சாகுபடி செய்யும் விவசாயி",
+      "உறுதியான நீர் ஆதாரம் உள்ள நிலம்",
+      "மானிய விகிதம் விவசாயி வகையைப் (சிறு / குறு / மற்றவை) பொறுத்தது"
+    ],
+    "documents_required_en": [
+      "Patta / chitta / adangal land records",
+      "Aadhaar Card",
+      "Bank account passbook",
+      "Passport-size photograph"
+    ],
+    "how_to_apply_en": "Apply at the local Horticulture / Agricultural Engineering office or through the TN micro irrigation portal with land records and bank details.",
+    "how_to_apply_ta": "நில ஆவணங்கள் மற்றும் வங்கி விவரங்களுடன் உள்ளூர் தோட்டக்கலை / வேளாண் பொறியியல் அலுவலகம் அல்லது தமிழ்நாடு நுண்ணீர்ப் பாசன இணையதளம் வழியாக விண்ணப்பிக்கவும்.",
+    "apply_to": "Horticulture Department / Agricultural Engineering Office",
+    "disability_types": [],
+    "min_disability_percent": 0,
+    "purposes": ["irrigation", "subsidy", "water"],
+    "age_min": 18,
+    "age_max": 120,
+    "source_url": "https://www.tn.gov.in/scheme/data_view/6786",
+    "source_name": "TN Horticulture Department / PMKSY Per Drop More Crop"
+  },
+  {
+    "id": "farm_mechanisation",
+    "domain": "agriculture",
+    "name_en": "Farm Mechanisation Subsidy",
+    "name_ta": "வேளாண் இயந்திரமயமாக்கல் மானியம்",
+    "department": "Tamil Nadu Department of Agricultural Engineering",
+    "category": "Mechanisation",
+    "category_ta": "இயந்திரமயமாக்கல்",
+    "summary_en": "Subsidy on the purchase of tractors, power tillers, and modern farm machinery to reduce labour cost and improve productivity.",
+    "summary_ta": "உழைப்புச் செலவைக் குறைத்து உற்பத்தியை மேம்படுத்த டிராக்டர்கள், பவர் டில்லர்கள் மற்றும் நவீன வேளாண் இயந்திரங்களை வாங்க மானியம்.",
+    "benefit_en": "Subsidy of 40% to 50% (higher for SC/ST, small and women farmers) on tractors, power tillers, rotavators, transplanters, harvesters and other approved equipment, subject to ceilings.",
+    "benefit_ta": "டிராக்டர்கள், பவர் டில்லர்கள், ரோட்டாவேட்டர்கள், நடவு இயந்திரங்கள், அறுவடை இயந்திரங்கள் மற்றும் பிற அங்கீகரிக்கப்பட்ட கருவிகளுக்கு 40% முதல் 50% வரை மானியம் (எஸ்சி/எஸ்டி, சிறு மற்றும் பெண் விவசாயிகளுக்கு அதிகம்), வரம்புகளுக்கு உட்பட்டு.",
+    "benefit_amount": 0,
+    "eligibility_en": [
+      "Farmer owning or cultivating agricultural land in Tamil Nadu",
+      "Higher subsidy for SC/ST, women, and small/marginal farmers",
+      "Equipment must be from the approved list"
+    ],
+    "eligibility_ta": [
+      "தமிழ்நாட்டில் வேளாண் நிலத்தை வைத்திருக்கும் அல்லது சாகுபடி செய்யும் விவசாயி",
+      "எஸ்சி/எஸ்டி, பெண்கள் மற்றும் சிறு/குறு விவசாயிகளுக்கு அதிக மானியம்",
+      "கருவிகள் அங்கீகரிக்கப்பட்ட பட்டியலில் இருந்து இருக்க வேண்டும்"
+    ],
+    "documents_required_en": [
+      "Patta / land records",
+      "Aadhaar Card",
+      "Community certificate (for SC/ST higher subsidy)",
+      "Bank account details",
+      "Quotation for the machinery"
+    ],
+    "how_to_apply_en": "Apply at the Assistant Engineer (Agricultural Engineering) office or through the TN agriculture department portal with land and bank documents.",
+    "how_to_apply_ta": "நிலம் மற்றும் வங்கி ஆவணங்களுடன் உதவிப் பொறியாளர் (வேளாண் பொறியியல்) அலுவலகம் அல்லது தமிழ்நாடு வேளாண் துறை இணையதளம் வழியாக விண்ணப்பிக்கவும்.",
+    "apply_to": "Agricultural Engineering Department",
+    "disability_types": [],
+    "min_disability_percent": 0,
+    "purposes": ["mechanisation", "subsidy", "equipment"],
+    "age_min": 18,
+    "age_max": 120,
+    "source_url": "https://www.tnagrisnet.tn.gov.in/",
+    "source_name": "TN Department of Agricultural Engineering"
+  },
+  {
+    "id": "soil_health_card",
+    "domain": "agriculture",
+    "name_en": "Soil Health Card Scheme",
+    "name_ta": "மண் வள அட்டைத் திட்டம்",
+    "department": "Department of Agriculture, Tamil Nadu",
+    "category": "Advisory",
+    "category_ta": "ஆலோசனை",
+    "summary_en": "Free soil testing and a Soil Health Card with crop-wise nutrient and fertiliser recommendations for each farmer's land.",
+    "summary_ta": "ஒவ்வொரு விவசாயியின் நிலத்திற்கும் இலவச மண் பரிசோதனை மற்றும் பயிர் வாரியான ஊட்டச்சத்து மற்றும் உர பரிந்துரைகளுடன் கூடிய மண் வள அட்டை.",
+    "benefit_en": "Free soil analysis and a personalised Soil Health Card advising the right type and quantity of fertilisers, reducing input cost and improving yield.",
+    "benefit_ta": "இலவச மண் பகுப்பாய்வு மற்றும் சரியான வகை மற்றும் அளவு உரங்களை அறிவுறுத்தும் தனிப்பயன் மண் வள அட்டை, இடுபொருள் செலவைக் குறைத்து விளைச்சலை மேம்படுத்துகிறது.",
+    "benefit_amount": 0,
+    "eligibility_en": [
+      "Any farmer cultivating land in Tamil Nadu",
+      "No income or land-size restriction"
+    ],
+    "eligibility_ta": [
+      "தமிழ்நாட்டில் நிலத்தைச் சாகுபடி செய்யும் எந்த விவசாயியும்",
+      "வருமான அல்லது நில அளவு கட்டுப்பாடு இல்லை"
+    ],
+    "documents_required_en": [
+      "Land records (patta / chitta)",
+      "Aadhaar Card",
+      "Mobile number"
+    ],
+    "how_to_apply_en": "Submit a soil sample at the local Agriculture Extension Centre or soil testing laboratory; the Soil Health Card is issued after analysis.",
+    "how_to_apply_ta": "உள்ளூர் வேளாண் விரிவாக்க மையம் அல்லது மண் பரிசோதனை ஆய்வகத்தில் மண் மாதிரியைச் சமர்ப்பிக்கவும்; பகுப்பாய்வுக்குப் பிறகு மண் வள அட்டை வழங்கப்படும்.",
+    "apply_to": "Agriculture Extension Centre / Soil Testing Laboratory",
+    "disability_types": [],
+    "min_disability_percent": 0,
+    "purposes": ["advisory", "soil", "input"],
+    "age_min": 18,
+    "age_max": 120,
+    "source_url": "https://soilhealth.dac.gov.in/",
+    "source_name": "Soil Health Card Scheme / TN Department of Agriculture"
+  },
+  {
+    "id": "women_farmer_support",
+    "domain": "agriculture",
+    "name_en": "Women Farmer & Self-Help Group Support",
+    "name_ta": "பெண் விவசாயி & சுய உதவிக் குழு ஆதரவு",
+    "department": "TN Department of Agriculture / Tamil Nadu Corporation for Development of Women (Mahalir Thittam)",
+    "category": "Women Farmers",
+    "category_ta": "பெண் விவசாயிகள்",
+    "summary_en": "Special support, training, and group credit for women farmers and women Self-Help Groups engaged in agriculture and allied activities.",
+    "summary_ta": "வேளாண்மை மற்றும் அதன் துணைச் செயல்களில் ஈடுபடும் பெண் விவசாயிகள் மற்றும் பெண் சுய உதவிக் குழுக்களுக்கு சிறப்பு ஆதரவு, பயிற்சி மற்றும் குழுக் கடன்.",
+    "benefit_en": "Priority subsidy on inputs and machinery, skill training, and low-interest group loans through Mahalir Thittam SHG linkage for women in agriculture.",
+    "benefit_ta": "வேளாண்மையில் உள்ள பெண்களுக்கு இடுபொருட்கள் மற்றும் இயந்திரங்களில் முன்னுரிமை மானியம், திறன் பயிற்சி மற்றும் மகளிர் திட்ட சுய உதவிக் குழு இணைப்பு மூலம் குறைந்த வட்டி குழுக் கடன்.",
+    "benefit_amount": 0,
+    "eligibility_en": [
+      "Women farmers or members of a registered women Self-Help Group",
+      "Engaged in agriculture, horticulture, or allied activities in Tamil Nadu"
+    ],
+    "eligibility_ta": [
+      "பெண் விவசாயிகள் அல்லது பதிவு செய்யப்பட்ட பெண் சுய உதவிக் குழு உறுப்பினர்கள்",
+      "தமிழ்நாட்டில் வேளாண்மை, தோட்டக்கலை அல்லது துணைச் செயல்களில் ஈடுபட்டிருத்தல்"
+    ],
+    "documents_required_en": [
+      "Aadhaar Card",
+      "SHG membership / group records",
+      "Land records (if applicable)",
+      "Bank account details"
+    ],
+    "how_to_apply_en": "Approach the local Agriculture Extension Centre or the Mahalir Thittam / Village Poverty Reduction Committee for SHG enrolment and scheme linkage.",
+    "how_to_apply_ta": "சுய உதவிக் குழு பதிவு மற்றும் திட்ட இணைப்புக்கு உள்ளூர் வேளாண் விரிவாக்க மையம் அல்லது மகளிர் திட்டம் / கிராம வறுமை ஒழிப்புக் குழுவை அணுகவும்.",
+    "apply_to": "Agriculture Extension Centre / Mahalir Thittam",
+    "disability_types": [],
+    "min_disability_percent": 0,
+    "purposes": ["women", "credit", "training", "subsidy"],
+    "age_min": 18,
+    "age_max": 120,
+    "source_url": "https://www.tn.gov.in/scheme/sector/13",
+    "source_name": "TN Department of Agriculture / Mahalir Thittam"
+  },
+  {
+    "id": "sc_st_farmer_benefits",
+    "domain": "agriculture",
+    "name_en": "Special Agriculture Benefits for SC/ST Farmers",
+    "name_ta": "எஸ்சி/எஸ்டி விவசாயிகளுக்கான சிறப்பு வேளாண் நலன்கள்",
+    "department": "TN Department of Agriculture / Adi Dravidar Welfare Department",
+    "category": "SC/ST Welfare",
+    "category_ta": "எஸ்சி/எஸ்டி நலன்",
+    "summary_en": "Enhanced subsidies and dedicated assistance for Scheduled Caste and Scheduled Tribe farmers under special component plans.",
+    "summary_ta": "சிறப்பு கூறுத் திட்டங்களின் கீழ் அட்டவணைச் சாதி மற்றும் அட்டவணைப் பழங்குடி விவசாயிகளுக்கு உயர்த்தப்பட்ட மானியங்கள் மற்றும் பிரத்யேக உதவி.",
+    "benefit_en": "Higher subsidy rates (often up to 75-100%) on seeds, inputs, micro irrigation and farm machinery, plus priority in scheme allocation for SC/ST farmers.",
+    "benefit_ta": "எஸ்சி/எஸ்டி விவசாயிகளுக்கு விதைகள், இடுபொருட்கள், நுண்ணீர்ப் பாசனம் மற்றும் வேளாண் இயந்திரங்களில் அதிக மானிய விகிதங்கள் (பெரும்பாலும் 75-100% வரை), மேலும் திட்ட ஒதுக்கீட்டில் முன்னுரிமை.",
+    "benefit_amount": 0,
+    "eligibility_en": [
+      "Farmer belonging to a Scheduled Caste or Scheduled Tribe community",
+      "Cultivating agricultural land in Tamil Nadu",
+      "Valid community certificate required"
+    ],
+    "eligibility_ta": [
+      "அட்டவணைச் சாதி அல்லது அட்டவணைப் பழங்குடி சமூகத்தைச் சேர்ந்த விவசாயி",
+      "தமிழ்நாட்டில் வேளாண் நிலத்தைச் சாகுபடி செய்தல்",
+      "செல்லுபடியாகும் சமூகச் சான்றிதழ் அவசியம்"
+    ],
+    "documents_required_en": [
+      "Community certificate (SC/ST)",
+      "Patta / land records",
+      "Aadhaar Card",
+      "Bank account details"
+    ],
+    "how_to_apply_en": "Apply at the local Agriculture Extension Centre with the community certificate and land records to avail the enhanced subsidy under the special component plan.",
+    "how_to_apply_ta": "சிறப்பு கூறுத் திட்டத்தின் கீழ் உயர்த்தப்பட்ட மானியத்தைப் பெற சமூகச் சான்றிதழ் மற்றும் நில ஆவணங்களுடன் உள்ளூர் வேளாண் விரிவாக்க மையத்தில் விண்ணப்பிக்கவும்.",
+    "apply_to": "Agriculture Extension Centre / Adi Dravidar Welfare Office",
+    "disability_types": [],
+    "min_disability_percent": 0,
+    "purposes": ["subsidy", "scst", "input", "machinery"],
+    "age_min": 18,
+    "age_max": 120,
+    "source_url": "https://www.tn.gov.in/scheme/sector/13",
+    "source_name": "TN Department of Agriculture / Adi Dravidar Welfare"
+  }
+]

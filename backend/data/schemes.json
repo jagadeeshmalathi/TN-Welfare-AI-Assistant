@@ -1,0 +1,486 @@
+[
+  {
+    "id": "maintenance_allowance_severe",
+    "name_en": "Maintenance Allowance to Severely Affected Persons",
+    "name_ta": "கடுமையாக பாதிக்கப்பட்ட நபர்களுக்கான பராமரிப்பு உதவித்தொகை",
+    "department": "Department for the Welfare of Differently Abled Persons, Tamil Nadu",
+    "category": "Financial Assistance",
+    "category_ta": "நிதி உதவி",
+    "summary_en": "Monthly financial allowance for locomotor disabled persons with severe disability who cannot be rehabilitated through other government schemes.",
+    "summary_ta": "மற்ற அரசுத் திட்டங்களின் மூலம் மறுவாழ்வு பெற முடியாத, கடுமையான இயக்க ஊனமுடைய நபர்களுக்கான மாதாந்திர நிதி உதவித்தொகை.",
+    "benefit_en": "Rs. 2,000 per month, credited directly to the beneficiary's bank account via ECS from the Treasury.",
+    "benefit_ta": "மாதம் ரூ. 2,000, கருவூலத்திலிருந்து ECS மூலம் பயனாளியின் வங்கிக் கணக்கில் நேரடியாக வரவு வைக்கப்படும்.",
+    "benefit_amount": 2000,
+    "eligibility_en": [
+      "Locomotor disabled person",
+      "Disability percentage must be above 75%",
+      "Person cannot be rehabilitated through any other government scheme"
+    ],
+    "eligibility_ta": [
+      "இயக்க ஊனமுடைய நபர்",
+      "ஊனத்தின் சதவீதம் 75%-க்கு மேல் இருக்க வேண்டும்",
+      "மற்ற எந்த அரசுத் திட்டத்தின் மூலமும் மறுவாழ்வு பெற இயலாதவராக இருக்க வேண்டும்"
+    ],
+    "documents_required_en": [
+      "National Identity Card for Differently Abled Persons",
+      "Family Card (Ration Card)",
+      "Bank account passbook copy"
+    ],
+    "how_to_apply_en": "Visit the District Differently Abled Welfare Office during office hours, collect the prescribed application form, fill and submit it with required documents to the District Differently Abled Welfare Officer.",
+    "how_to_apply_ta": "மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலகத்திற்கு அலுவலக நேரத்தில் சென்று, விண்ணப்பப் படிவத்தைப் பெற்று, தேவையான ஆவணங்களுடன் மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலரிடம் சமர்ப்பிக்கவும்.",
+    "apply_to": "District Differently Abled Welfare Officer",
+    "disability_types": [
+      "physical",
+      "locomotor"
+    ],
+    "min_disability_percent": 75,
+    "purposes": [
+      "financial",
+      "maintenance"
+    ],
+    "age_min": 0,
+    "age_max": 120,
+    "source_url": "https://www.scd.tn.gov.in/social_sec_schemes.php",
+    "source_name": "Commissionerate for Welfare of the Differently Abled, Tamil Nadu - Social Security Schemes",
+    "domain": "welfare"
+  },
+  {
+    "id": "maintenance_allowance_intellectual",
+    "name_en": "Maintenance Allowance to Intellectually Disabled Persons",
+    "name_ta": "அறிவுசார் ஊனமுடைய நபர்களுக்கான பராமரிப்பு உதவித்தொகை",
+    "department": "Department for the Welfare of Differently Abled Persons, Tamil Nadu",
+    "category": "Financial Assistance",
+    "category_ta": "நிதி உதவி",
+    "summary_en": "Monthly financial support for intellectually disabled persons to help maintain a basic standard of living and independence.",
+    "summary_ta": "அறிவுசார் ஊனமுடைய நபர்கள் அடிப்படை வாழ்க்கைத் தரத்தையும் சுயாதீனத்தையும் பேண உதவும் மாதாந்திர நிதி உதவி.",
+    "benefit_en": "Rs. 2,000 per month, credited directly to the beneficiary's bank account via ECS from the Treasury.",
+    "benefit_ta": "மாதம் ரூ. 2,000, கருவூலத்திலிருந்து ECS மூலம் பயனாளியின் வங்கிக் கணக்கில் நேரடியாக வரவு வைக்கப்படும்.",
+    "benefit_amount": 2000,
+    "eligibility_en": [
+      "Person with intellectual disability",
+      "Disability percentage must be 40% or above"
+    ],
+    "eligibility_ta": [
+      "அறிவுசார் ஊனமுடைய நபர்",
+      "ஊனத்தின் சதவீதம் 40% அல்லது அதற்கு மேல் இருக்க வேண்டும்"
+    ],
+    "documents_required_en": [
+      "National Identity Card for Differently Abled Persons issued by the Welfare Board",
+      "Family Card (Ration Card)",
+      "Bank passbook showing account details"
+    ],
+    "how_to_apply_en": "Visit the District Differently Abled Welfare Office, obtain the prescribed application form, fill it with a passport-size photo and required documents, and submit to the District Differently Abled Welfare Officer.",
+    "how_to_apply_ta": "மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலகத்திற்குச் சென்று, விண்ணப்பப் படிவத்தைப் பெற்று, புகைப்படம் மற்றும் தேவையான ஆவணங்களுடன் மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலரிடம் சமர்ப்பிக்கவும்.",
+    "apply_to": "District Differently Abled Welfare Officer",
+    "disability_types": [
+      "intellectual"
+    ],
+    "min_disability_percent": 40,
+    "purposes": [
+      "financial",
+      "maintenance"
+    ],
+    "age_min": 0,
+    "age_max": 120,
+    "source_url": "https://www.scd.tn.gov.in/social_sec_schemes.php",
+    "source_name": "Commissionerate for Welfare of the Differently Abled, Tamil Nadu - Social Security Schemes",
+    "domain": "welfare"
+  },
+  {
+    "id": "travel_concession",
+    "name_en": "Travel Concession to Differently Abled Persons",
+    "name_ta": "மாற்றுத்திறனாளிகளுக்கான பயணச் சலுகை",
+    "department": "Department for the Welfare of Differently Abled Persons, Tamil Nadu",
+    "category": "Transport",
+    "category_ta": "போக்குவரத்து",
+    "summary_en": "Free or concessional bus travel for differently abled persons across Tamil Nadu, including escorts in certain cases.",
+    "summary_ta": "தமிழ்நாடு முழுவதும் மாற்றுத்திறனாளிகளுக்கு இலவச அல்லது சலுகை விலையில் பேருந்துப் பயணம், சில சந்தர்ப்பங்களில் உடன் வருபவருக்கும் சலுகை.",
+    "benefit_en": "Visually impaired persons get free travel up to 100 km within their district. Speech, hearing, and locomotor disabled persons get free travel up to 100 km to schools, colleges, hospitals, training centres, or workplaces. Intellectually disabled persons get free travel with one escort. All categories also get statewide travel at only 25% of the ticket cost (75% concession). There is no income ceiling for these concessions.",
+    "benefit_ta": "பார்வையற்றோர் தங்கள் மாவட்டத்திற்குள் 100 கி.மீ வரை இலவசப் பயணம். பேச்சு, செவித்திறன், இயக்க ஊனமுடையோர் பள்ளி, கல்லூரி, மருத்துவமனை, பயிற்சி மையம் அல்லது பணியிடத்திற்கு 100 கி.மீ வரை இலவசப் பயணம். அறிவுசார் ஊனமுடையோர் ஒரு உடன் வருபவருடன் இலவசப் பயணம். அனைத்துப் பிரிவினருக்கும் மாநிலம் முழுவதும் டிக்கெட் கட்டணத்தில் 25% மட்டுமே (75% சலுகை). வருமான வரம்பு இல்லை.",
+    "benefit_amount": 0,
+    "eligibility_en": [
+      "Must be a differently abled person holding a valid National Identity Card",
+      "For escort concession (75% off), a Government Doctor's certificate confirming need for escort is required"
+    ],
+    "eligibility_ta": [
+      "செல்லுபடியாகும் தேசிய அடையாள அட்டை வைத்திருக்கும் மாற்றுத்திறனாளியாக இருக்க வேண்டும்",
+      "உடன் வருபவர் சலுகைக்கு (75% தள்ளுபடி), உடன் தேவை என்பதை உறுதிப்படுத்தும் அரசு மருத்துவர் சான்றிதழ் தேவை"
+    ],
+    "documents_required_en": [
+      "National Identity Card for Differently Abled Persons (original and Xerox copy for the bus conductor)",
+      "Certificate from educational institution (if travelling for education) or bonafide certificate from employer (if travelling for work)",
+      "Government Doctor's certificate (only if travelling with an escort for the 75% concession)"
+    ],
+    "how_to_apply_en": "Obtain application form from the District Differently Abled Welfare Officer. For the 25%-fare concession, show the National Identity Card to the bus conductor; original must be available if asked.",
+    "how_to_apply_ta": "மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலரிடமிருந்து விண்ணப்பப் படிவத்தைப் பெறவும். 25% கட்டணச் சலுகைக்கு, பேருந்து நடத்துநரிடம் தேசிய அடையாள அட்டையைக் காட்டவும்; கேட்டால் அசலைக் காட்ட வேண்டும்.",
+    "apply_to": "District Differently Abled Welfare Officer / District Collector / Transport Corporation",
+    "disability_types": [
+      "physical",
+      "locomotor",
+      "hearing",
+      "visual",
+      "speech",
+      "intellectual"
+    ],
+    "min_disability_percent": 40,
+    "purposes": [
+      "travel",
+      "transport",
+      "education",
+      "employment"
+    ],
+    "age_min": 0,
+    "age_max": 120,
+    "source_url": "https://www.scd.tn.gov.in/social_sec_schemes.php",
+    "source_name": "Commissionerate for Welfare of the Differently Abled, Tamil Nadu - Social Security Schemes",
+    "domain": "welfare"
+  },
+  {
+    "id": "assistive_devices",
+    "name_en": "Assistive Devices Scheme",
+    "name_ta": "உதவிக் கருவிகள் வழங்கும் திட்டம்",
+    "department": "Department for the Welfare of Differently Abled Persons, Tamil Nadu",
+    "category": "Aids and Appliances",
+    "category_ta": "உதவிக் கருவிகள்",
+    "summary_en": "Provision of assistive devices such as hearing aids, wheelchairs, and retrofitted scooters to differently abled persons to improve mobility and independence.",
+    "summary_ta": "மாற்றுத்திறனாளிகளின் இயக்கம் மற்றும் சுயாதீனத்தை மேம்படுத்த செவித்துணைக் கருவிகள், சக்கர நாற்காலிகள், மாற்றியமைக்கப்பட்ட ஸ்கூட்டர்கள் போன்ற உதவிக் கருவிகள் வழங்கப்படுகின்றன.",
+    "benefit_en": "Free assistive devices including behind-the-ear hearing aids, wheelchairs, tricycles, and retrofitted petrol scooters, depending on the type and severity of disability.",
+    "benefit_ta": "ஊனத்தின் வகை மற்றும் தீவிரத்தைப் பொறுத்து, செவித்துணைக் கருவிகள், சக்கர நாற்காலிகள், முச்சக்கர வண்டிகள் மற்றும் மாற்றியமைக்கப்பட்ட பெட்ரோல் ஸ்கூட்டர்கள் உள்ளிட்ட இலவச உதவிக் கருவிகள்.",
+    "benefit_amount": 0,
+    "eligibility_en": [
+      "Must be a certified differently abled person (locomotor, hearing, or visually impaired)",
+      "For hearing aids, an audiogram test confirming hearing loss is required"
+    ],
+    "eligibility_ta": [
+      "சான்றளிக்கப்பட்ட மாற்றுத்திறனாளியாக (இயக்க, செவித்திறன் அல்லது பார்வை ஊனம்) இருக்க வேண்டும்",
+      "செவித்துணைக் கருவிகளுக்கு, செவித்திறன் இழப்பை உறுதிப்படுத்தும் ஆடியோகிராம் பரிசோதனை தேவை"
+    ],
+    "documents_required_en": [
+      "National Identity Card for Differently Abled Persons",
+      "Ration Card",
+      "Aadhaar Card",
+      "Passport-size photograph",
+      "Audiogram test report (for hearing aids only)"
+    ],
+    "how_to_apply_en": "Submit application with required documents to the District Differently Abled Welfare Officer; for hearing aids, attend the audiogram test at a designated government hospital ENT department.",
+    "how_to_apply_ta": "தேவையான ஆவணங்களுடன் மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலரிடம் விண்ணப்பத்தைச் சமர்ப்பிக்கவும்; செவித்துணைக் கருவிகளுக்கு, அரசு மருத்துவமனையின் ENT பிரிவில் ஆடியோகிராம் பரிசோதனைக்குச் செல்லவும்.",
+    "apply_to": "District Differently Abled Welfare Officer",
+    "disability_types": [
+      "physical",
+      "locomotor",
+      "hearing",
+      "visual"
+    ],
+    "min_disability_percent": 40,
+    "purposes": [
+      "assistive_device",
+      "mobility",
+      "health"
+    ],
+    "age_min": 0,
+    "age_max": 120,
+    "source_url": "https://www.scd.tn.gov.in/assistive_device.php",
+    "source_name": "Commissionerate for Welfare of the Differently Abled, Tamil Nadu - Assistive Devices",
+    "domain": "welfare"
+  },
+  {
+    "id": "marriage_assistance",
+    "name_en": "Marriage Assistance Scheme",
+    "name_ta": "திருமண உதவித் திட்டம்",
+    "department": "Department for the Welfare of Differently Abled Persons, Tamil Nadu",
+    "category": "Financial Assistance",
+    "category_ta": "நிதி உதவி",
+    "summary_en": "Financial assistance for the marriage of differently abled persons, with higher assistance if either partner has completed graduation.",
+    "summary_ta": "மாற்றுத்திறனாளிகளின் திருமணத்திற்கான நிதி உதவி; ஏதேனும் ஒரு துணை பட்டப்படிப்பு முடித்திருந்தால் அதிக உதவி வழங்கப்படும்.",
+    "benefit_en": "Cash assistance of Rs. 12,500, a postal savings bond of Rs. 12,500, and an 8-gram gold coin for eligible marriages. Higher assistance applies if one partner has completed graduation.",
+    "benefit_ta": "தகுதியான திருமணங்களுக்கு ரூ. 12,500 பணம், ரூ. 12,500 அஞ்சல் சேமிப்புப் பத்திரம் மற்றும் 8 கிராம் தங்க நாணயம். ஒரு துணை பட்டப்படிப்பு முடித்திருந்தால் அதிக உதவி.",
+    "benefit_amount": 25000,
+    "eligibility_en": [
+      "One or both partners must have locomotor disability, hearing impairment, or visual impairment",
+      "This must be the first marriage for both partners",
+      "Age limit: 18 to 35 years"
+    ],
+    "eligibility_ta": [
+      "ஒன்று அல்லது இரு துணைகளுக்கும் இயக்க ஊனம், செவித்திறன் குறைபாடு அல்லது பார்வைக் குறைபாடு இருக்க வேண்டும்",
+      "இருவருக்கும் இது முதல் திருமணமாக இருக்க வேண்டும்",
+      "வயது வரம்பு: 18 முதல் 35 வயது வரை"
+    ],
+    "documents_required_en": [
+      "Application form",
+      "National Identity Card for Differently Abled Persons",
+      "Ration Card",
+      "Aadhaar Card",
+      "Marriage Register Certificate",
+      "Marriage photograph",
+      "VAO (Village Administrative Officer) certificate confirming first marriage",
+      "Marriage invitation"
+    ],
+    "how_to_apply_en": "Submit the completed application with all required documents to the District Differently Abled Welfare Officer within the prescribed time after marriage.",
+    "how_to_apply_ta": "திருமணத்திற்குப் பிறகு குறிப்பிட்ட காலத்திற்குள் அனைத்து ஆவணங்களுடன் பூர்த்தி செய்த விண்ணப்பத்தை மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலரிடம் சமர்ப்பிக்கவும்.",
+    "apply_to": "District Differently Abled Welfare Officer",
+    "disability_types": [
+      "physical",
+      "locomotor",
+      "hearing",
+      "visual"
+    ],
+    "min_disability_percent": 40,
+    "purposes": [
+      "marriage",
+      "financial"
+    ],
+    "age_min": 18,
+    "age_max": 35,
+    "source_url": "https://www.scd.tn.gov.in/social_sec_schemes.php",
+    "source_name": "Madurai District Differently Abled Welfare Schemes / Commissionerate for Welfare of the Differently Abled",
+    "domain": "welfare"
+  },
+  {
+    "id": "udid_card",
+    "name_en": "UDID - Unique Disability Identity Card",
+    "name_ta": "UDID - தனித்துவ ஊனமுற்றோர் அடையாள அட்டை",
+    "department": "Department for the Welfare of Differently Abled Persons, Tamil Nadu (Government of India project)",
+    "category": "Identification",
+    "category_ta": "அடையாளம்",
+    "summary_en": "A unique, nationally recognized identity card for persons with disabilities, used to access government welfare schemes across India.",
+    "summary_ta": "இந்தியா முழுவதும் அரசு நலத் திட்டங்களைப் பெற பயன்படும், ஊனமுற்றோருக்கான தேசிய அளவில் அங்கீகரிக்கப்பட்ட தனித்துவ அடையாள அட்டை.",
+    "benefit_en": "A single national identity card recognized across India for availing disability-related welfare benefits, replacing the need for multiple disability certificates.",
+    "benefit_ta": "பல ஊனச் சான்றிதழ்களுக்குப் பதிலாக, ஊனம் தொடர்பான நலன்களைப் பெற இந்தியா முழுவதும் அங்கீகரிக்கப்பட்ட ஒரே தேசிய அடையாள அட்டை.",
+    "benefit_amount": 0,
+    "eligibility_en": [
+      "Disability percentage of 40% or above, certified by a government Medical Board",
+      "Applicable disabilities include locomotor disability, visual impairment, hearing impairment, intellectual disability, mental illness, autism, multiple disabilities, and cerebral palsy"
+    ],
+    "eligibility_ta": [
+      "அரசு மருத்துவக் குழுவால் சான்றளிக்கப்பட்ட 40% அல்லது அதற்கு மேற்பட்ட ஊனச் சதவீதம்",
+      "இயக்க ஊனம், பார்வை, செவித்திறன், அறிவுசார் ஊனம், மனநோய், மன இறுக்கம், பல்வேறு ஊனங்கள் மற்றும் மூளை வாதம் உள்ளிட்டவை பொருந்தும்"
+    ],
+    "documents_required_en": [
+      "Ration Card",
+      "Aadhaar Card",
+      "Passport-size photographs (multiple copies)",
+      "Physical presence at the Medical Board examination at a designated government hospital"
+    ],
+    "how_to_apply_en": "Apply online through the UDID portal or visit the District Differently Abled Welfare Office; attend the Medical Board assessment at a government hospital to obtain the disability certificate and UDID card.",
+    "how_to_apply_ta": "UDID இணையதளம் வழியாக ஆன்லைனில் விண்ணப்பிக்கவும் அல்லது மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலகத்திற்குச் செல்லவும்; ஊனச் சான்றிதழ் மற்றும் UDID அட்டையைப் பெற அரசு மருத்துவமனையில் மருத்துவக் குழு மதிப்பீட்டில் கலந்து கொள்ளவும்.",
+    "apply_to": "District Differently Abled Welfare Officer / Government Medical Board",
+    "disability_types": [
+      "physical",
+      "locomotor",
+      "hearing",
+      "visual",
+      "intellectual",
+      "mental",
+      "autism",
+      "multiple"
+    ],
+    "min_disability_percent": 40,
+    "purposes": [
+      "identification",
+      "certificate"
+    ],
+    "age_min": 0,
+    "age_max": 120,
+    "source_url": "https://www.scd.tn.gov.in/",
+    "source_name": "Commissionerate for Welfare of the Differently Abled, Tamil Nadu / Madurai District Welfare Schemes",
+    "domain": "welfare"
+  },
+  {
+    "id": "self_employment_loan",
+    "name_en": "Self-Employment Loan Scheme for Differently Abled Persons",
+    "name_ta": "மாற்றுத்திறனாளிகளுக்கான சுயவேலைவாய்ப்பு கடன் திட்டம்",
+    "department": "Department for the Welfare of Differently Abled Persons, Tamil Nadu / District Industries Centre",
+    "category": "Economic Development",
+    "category_ta": "பொருளாதார மேம்பாடு",
+    "summary_en": "Subsidized loans for differently abled persons to start small businesses or self-employment ventures, with higher subsidy for rural applicants.",
+    "summary_ta": "சிறு தொழில் அல்லது சுயவேலைவாய்ப்பைத் தொடங்க மாற்றுத்திறனாளிகளுக்கு மானியக் கடன்; கிராமப்புற விண்ணப்பதாரர்களுக்கு அதிக மானியம்.",
+    "benefit_en": "Loan amount ranging from Rs. 25,000 up to Rs. 25,00,000 through a nationalized bank. Rural applicants receive a 35% subsidy and urban applicants receive a 25% subsidy, with an additional 5% subsidy from the District Differently Abled Welfare Office.",
+    "benefit_ta": "தேசியமயமாக்கப்பட்ட வங்கி மூலம் ரூ. 25,000 முதல் ரூ. 25,00,000 வரை கடன். கிராமப்புற விண்ணப்பதாரர்களுக்கு 35% மானியம், நகர்ப்புற விண்ணப்பதாரர்களுக்கு 25% மானியம், மேலும் மாவட்ட நல அலுவலகத்திலிருந்து கூடுதலாக 5% மானியம்.",
+    "benefit_amount": 2500000,
+    "eligibility_en": [
+      "Must be a certified differently abled person",
+      "Minimum educational qualification of 8th standard pass",
+      "Age limit: 18 to 45 years",
+      "Should not have an existing loan from any other bank"
+    ],
+    "eligibility_ta": [
+      "சான்றளிக்கப்பட்ட மாற்றுத்திறனாளியாக இருக்க வேண்டும்",
+      "குறைந்தபட்சக் கல்வித் தகுதி 8ஆம் வகுப்பு தேர்ச்சி",
+      "வயது வரம்பு: 18 முதல் 45 வயது வரை",
+      "வேறு எந்த வங்கியிலும் தற்போதைய கடன் இருக்கக் கூடாது"
+    ],
+    "documents_required_en": [
+      "Online application",
+      "National Identity Card for Differently Abled Persons",
+      "Ration Card",
+      "Aadhaar Card"
+    ],
+    "how_to_apply_en": "Apply online and also submit application to the General Manager, District Industries Centre, along with required documents.",
+    "how_to_apply_ta": "ஆன்லைனில் விண்ணப்பித்து, தேவையான ஆவணங்களுடன் மாவட்டத் தொழில் மையத்தின் பொது மேலாளரிடமும் விண்ணப்பத்தைச் சமர்ப்பிக்கவும்.",
+    "apply_to": "General Manager, District Industries Centre / District Differently Abled Welfare Officer",
+    "disability_types": [
+      "physical",
+      "locomotor",
+      "hearing",
+      "visual",
+      "intellectual"
+    ],
+    "min_disability_percent": 40,
+    "purposes": [
+      "employment",
+      "business",
+      "self_employment",
+      "economic"
+    ],
+    "age_min": 18,
+    "age_max": 45,
+    "source_url": "https://madurai.nic.in/differently-abled-welfare/",
+    "source_name": "Madurai District Differently Abled Welfare Schemes",
+    "domain": "welfare"
+  },
+  {
+    "id": "educational_assistance",
+    "name_en": "Educational Assistance Scheme",
+    "name_ta": "கல்வி உதவித் திட்டம்",
+    "department": "Department for the Welfare of Differently Abled Persons, Tamil Nadu",
+    "category": "Education",
+    "category_ta": "கல்வி",
+    "summary_en": "Monthly scholarship-style financial assistance for differently abled students at various levels of school and higher education.",
+    "summary_ta": "பள்ளி மற்றும் உயர்கல்வியின் பல்வேறு நிலைகளில் உள்ள மாற்றுத்திறனாளி மாணவர்களுக்கான மாதாந்திர உதவித்தொகை.",
+    "benefit_en": "Rs. 100 to Rs. 1,000 per month for school-level students (10 months/year); Rs. 400 to Rs. 4,000 per month for higher levels; Rs. 600 to Rs. 6,000 per month for degree-level; and Rs. 700 to Rs. 7,000 per month for postgraduate, medical, and professional courses (10 months/year). Scribe allowance of Rs. 300 per paper is also available for examinations.",
+    "benefit_ta": "பள்ளி மாணவர்களுக்கு மாதம் ரூ. 100 முதல் ரூ. 1,000 வரை (ஆண்டுக்கு 10 மாதங்கள்); உயர் நிலைகளுக்கு ரூ. 400 முதல் ரூ. 4,000; பட்டப்படிப்புக்கு ரூ. 600 முதல் ரூ. 6,000; முதுகலை, மருத்துவம் மற்றும் தொழில்முறை படிப்புகளுக்கு ரூ. 700 முதல் ரூ. 7,000 வரை. தேர்வுகளுக்கு ஒரு தாளுக்கு ரூ. 300 எழுத்துதவியாளர் படியும் வழங்கப்படும்.",
+    "benefit_amount": 7000,
+    "eligibility_en": [
+      "Must be a differently abled student enrolled in a recognized educational institution",
+      "Studying from primary school level up to postgraduate, medical, or professional courses"
+    ],
+    "eligibility_ta": [
+      "அங்கீகரிக்கப்பட்ட கல்வி நிறுவனத்தில் சேர்ந்த மாற்றுத்திறனாளி மாணவராக இருக்க வேண்டும்",
+      "தொடக்கப் பள்ளி முதல் முதுகலை, மருத்துவம் அல்லது தொழில்முறை படிப்புகள் வரை படிப்பவர்"
+    ],
+    "documents_required_en": [
+      "Application form",
+      "National Identity Card for Differently Abled Persons",
+      "Aadhaar Card",
+      "Ration Card",
+      "Bank passbook",
+      "Bonafide / study certificate from the educational institution"
+    ],
+    "how_to_apply_en": "Submit the application along with required documents to the District Differently Abled Welfare Officer or through the educational institution, as applicable.",
+    "how_to_apply_ta": "தேவையான ஆவணங்களுடன் விண்ணப்பத்தை மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலரிடம் அல்லது கல்வி நிறுவனம் வழியாகச் சமர்ப்பிக்கவும்.",
+    "apply_to": "District Differently Abled Welfare Officer",
+    "disability_types": [
+      "physical",
+      "locomotor",
+      "hearing",
+      "visual",
+      "intellectual"
+    ],
+    "min_disability_percent": 40,
+    "purposes": [
+      "education",
+      "scholarship",
+      "financial"
+    ],
+    "age_min": 5,
+    "age_max": 35,
+    "source_url": "https://scd.tn.gov.in/pdf/wda_e_pb_2023_24.pdf",
+    "source_name": "Department for the Welfare of Differently Abled Persons - Performance Budget 2023-24",
+    "domain": "welfare"
+  },
+  {
+    "id": "early_intervention_centres",
+    "name_en": "Early Intervention Centres (EIC) for Young Children with Disabilities",
+    "name_ta": "ஊனமுடைய சிறு குழந்தைகளுக்கான ஆரம்பகால தலையீட்டு மையங்கள்",
+    "department": "Department for the Welfare of Differently Abled Persons, Tamil Nadu",
+    "category": "Rehabilitation",
+    "category_ta": "மறுவாழ்வு",
+    "summary_en": "Government-run centres providing early identification, therapy, and intervention services for young children with disabilities to maximize developmental outcomes.",
+    "summary_ta": "ஊனமுடைய சிறு குழந்தைகளின் வளர்ச்சியை அதிகரிக்க ஆரம்பகால அடையாளம், சிகிச்சை மற்றும் தலையீட்டு சேவைகளை வழங்கும் அரசு மையங்கள்.",
+    "benefit_en": "Free early identification, therapy, and intervention services for young children with disabilities; free travel concession is also available for children and one accompanying parent/escort to attend the centre.",
+    "benefit_ta": "ஊனமுடைய சிறு குழந்தைகளுக்கு இலவச ஆரம்பகால அடையாளம், சிகிச்சை மற்றும் தலையீட்டு சேவைகள்; மையத்திற்கு வர குழந்தைகளுக்கும் உடன் வரும் ஒரு பெற்றோர்/உதவியாளருக்கும் இலவசப் பயணச் சலுகை.",
+    "benefit_amount": 0,
+    "eligibility_en": [
+      "Young children identified with developmental delays or disabilities",
+      "No specific income ceiling mentioned for accessing the centre's services"
+    ],
+    "eligibility_ta": [
+      "வளர்ச்சித் தாமதம் அல்லது ஊனம் கண்டறியப்பட்ட சிறு குழந்தைகள்",
+      "மைய சேவைகளைப் பெற குறிப்பிட்ட வருமான வரம்பு இல்லை"
+    ],
+    "documents_required_en": [
+      "Medical/disability assessment or referral",
+      "Parent/guardian identification (Aadhaar Card, Ration Card)"
+    ],
+    "how_to_apply_en": "Contact the nearest Early Intervention Centre or the District Differently Abled Welfare Office for screening and enrollment.",
+    "how_to_apply_ta": "பரிசோதனை மற்றும் சேர்க்கைக்காக அருகிலுள்ள ஆரம்பகால தலையீட்டு மையம் அல்லது மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலகத்தைத் தொடர்பு கொள்ளவும்.",
+    "apply_to": "District Differently Abled Welfare Officer / Early Intervention Centre",
+    "disability_types": [
+      "physical",
+      "locomotor",
+      "hearing",
+      "visual",
+      "intellectual",
+      "autism",
+      "multiple"
+    ],
+    "min_disability_percent": 0,
+    "purposes": [
+      "rehabilitation",
+      "therapy",
+      "health",
+      "education"
+    ],
+    "age_min": 0,
+    "age_max": 8,
+    "source_url": "https://scd.tn.gov.in/pdf/wda_e_pn_2023_24.pdf",
+    "source_name": "Department for the Welfare of Differently Abled Persons - Policy Note 2023-24",
+    "domain": "welfare"
+  },
+  {
+    "id": "rehabilitation_homes",
+    "name_en": "Rehabilitation Homes for Differently Abled Persons",
+    "name_ta": "மாற்றுத்திறனாளிகளுக்கான மறுவாழ்வு இல்லங்கள்",
+    "department": "Department for the Welfare of Differently Abled Persons, Tamil Nadu (through NGOs)",
+    "category": "Rehabilitation",
+    "category_ta": "மறுவாழ்வு",
+    "summary_en": "Residential rehabilitation homes run with NGO support for differently abled persons who need long-term care, shelter, and rehabilitation.",
+    "summary_ta": "நீண்டகாலப் பராமரிப்பு, தங்குமிடம் மற்றும் மறுவாழ்வு தேவைப்படும் மாற்றுத்திறனாளிகளுக்காக தன்னார்வ அமைப்புகளின் ஆதரவுடன் இயங்கும் தங்கும் மறுவாழ்வு இல்லங்கள்.",
+    "benefit_en": "Free residential shelter, care, and rehabilitation services. Operated through approximately 70 homes across Tamil Nadu in partnership with NGOs.",
+    "benefit_ta": "இலவச தங்குமிடம், பராமரிப்பு மற்றும் மறுவாழ்வு சேவைகள். தன்னார்வ அமைப்புகளுடன் இணைந்து தமிழ்நாடு முழுவதும் சுமார் 70 இல்லங்கள் இயங்குகின்றன.",
+    "benefit_amount": 0,
+    "eligibility_en": [
+      "Differently abled persons in need of residential rehabilitation and care, particularly those without adequate family or social support"
+    ],
+    "eligibility_ta": [
+      "தங்கும் மறுவாழ்வு மற்றும் பராமரிப்பு தேவைப்படும் மாற்றுத்திறனாளிகள், குறிப்பாக போதிய குடும்ப அல்லது சமூக ஆதரவு இல்லாதவர்கள்"
+    ],
+    "documents_required_en": [
+      "National Identity Card for Differently Abled Persons",
+      "Identification documents (Aadhaar Card, Ration Card)",
+      "Referral or recommendation, where applicable"
+    ],
+    "how_to_apply_en": "Contact the District Differently Abled Welfare Office or the nearest NGO-run Rehabilitation Home directly for assessment and admission.",
+    "how_to_apply_ta": "மதிப்பீடு மற்றும் சேர்க்கைக்காக மாவட்ட மாற்றுத்திறனாளிகள் நல அலுவலகம் அல்லது அருகிலுள்ள தன்னார்வ அமைப்பின் மறுவாழ்வு இல்லத்தை நேரடியாகத் தொடர்பு கொள்ளவும்.",
+    "apply_to": "District Differently Abled Welfare Officer / Rehabilitation Home (NGO)",
+    "disability_types": [
+      "physical",
+      "locomotor",
+      "hearing",
+      "visual",
+      "intellectual",
+      "multiple"
+    ],
+    "min_disability_percent": 0,
+    "purposes": [
+      "rehabilitation",
+      "shelter",
+      "care"
+    ],
+    "age_min": 0,
+    "age_max": 120,
+    "source_url": "https://scd.tn.gov.in/pdf/wda_e_pn_2023_24.pdf",
+    "source_name": "Department for the Welfare of Differently Abled Persons - Policy Note 2023-24",
+    "domain": "welfare"
+  }
+]

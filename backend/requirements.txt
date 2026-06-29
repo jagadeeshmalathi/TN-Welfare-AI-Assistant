@@ -1,0 +1,9 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+httpx==0.28.1
+# --- Optional but recommended for true vector RAG ---
+# If these fail to install on your platform, the app automatically falls back
+# to keyword retrieval, so the rest of the stack still works.
+faiss-cpu==1.9.0
+sentence-transformers==3.3.1
